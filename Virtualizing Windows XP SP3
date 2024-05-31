@@ -5,6 +5,13 @@
 
 -So, I finally came up with a solution: using a virtual environment to install windows xp (I'm sure it will work, because I originally played on windows XP).
 -So first, I chose which version of windows XP to install, which is obviously the SP3 as it's the most advanced and secure.
--Then I bought the licence and installed the operating system in my Virtual Box
+-Then I bought the licence and installed the operating system in my Virtual Box.
+-Installing Windows XP is taking way longer than expected
 
-![image](https://github.com/PakiDeath/Virtualized-Environments/assets/171298158/f78554ae-2f15-4a80-80be-abe58b787b6e)
+Update: having trouble installing Windows XP - too slow or gets stuck during installation
+Fixes: RAM set to 4GB and CPU set to 1 processor (more processors actually slow down windows XP due to increased CPU oversight). XP x64 is not recognized by VirtualBox - Using the x86 version
+Looks like the version of XP I used was compromised. Now dowloading a different version from Archive.org
+
+
+
+
